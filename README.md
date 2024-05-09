@@ -26,7 +26,6 @@
 + 이미 소수점이 입력되어 있음에도 불구하고 또 다시 . 을 찍으면 return
 
 <br />
-<br />
 
 [App.jsx](https://github.com/T-asdf/Calculator/blob/master/src/App.jsx) <br />
 [App.css](https://github.com/T-asdf/Calculator/blob/master/src/App.css)
